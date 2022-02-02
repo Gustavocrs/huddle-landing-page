@@ -11,7 +11,6 @@ OBS: Fiz algumas pequenas alterações em relação ao original.</p>
 <div><p><h3>Linguagens</h3></p>
 <img alt="Icone HTML" src="./images/html.png" style="width:50px;height:50px"/> 
 <img alt="Icone CSS" src="./images/css.png" style="width:50px;height:50px"/> 
-<img alt="Icone Javascript" src="./images/js.png" style="width:50px;height:50px"/>
 </div>
 
 <p><h3>Autor</h3> Frontend Mentor</p>
